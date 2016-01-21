@@ -4,4 +4,4 @@
 
 For learning how to make my own .dotfile I am using this [Medium tutorial](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.nyscslel5)
 
-# For adding sublime text, use this link: http://zanshin.net/2012/08/03/adding-sublime-text-2-settings-themes-plugins-to-dotfiles/
+- For adding sublime text, use this [link](http://zanshin.net/2012/08/03/adding-sublime-text-2-settings-themes-plugins-to-dotfiles/): 
