@@ -1,0 +1,19 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "1337 Color Scheme",
+        "3024 Color Scheme",
+        "GitGutter",
+        "Jade",
+        "Material Theme",
+        "Package Control",
+        "Print to HTML",
+        "Pylinter",
+        "Theme - Spacegray",
+        "Tomorrow Color Schemes"
+    ]
+}
